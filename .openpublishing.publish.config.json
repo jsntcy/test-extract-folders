@@ -1,0 +1,20 @@
+{
+  "need_generate_pdf": false,
+  "need_generate_intellisense": false,
+  "docsets_to_publish": [
+    {
+      "docset_name": "DependentDoc",
+      "build_source_folder": "DependentDoc",
+      "build_output_subfolder": "DependentDoc",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "build_entry_point": "op"
+    }
+  ],
+  "notification_subscribers": [],
+  "branches_to_filter": [
+    "live"
+  ],
+  "skip_source_output_uploading": false
+}

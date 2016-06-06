@@ -9,7 +9,12 @@
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": true,
-      "build_entry_point": "op"
+      "build_entry_point": "op",
+       "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      }
     }
   ],
   "notification_subscribers": [],
